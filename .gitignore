@@ -1,0 +1,14 @@
+*.pt
+*.pyc
+GIB.egg-info/
+build/
+dist/
+datasets/
+runs/
+results/
+experiments/runs/
+logs/
+data/
+deconv/
+__pychace__/
+.ipynb_checkpoints/
